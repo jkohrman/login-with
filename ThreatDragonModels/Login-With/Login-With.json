@@ -1,0 +1,12 @@
+{
+  "summary": {
+    "title": "Login-With",
+    "owner": "Jeff Kohrman",
+    "description": "A standalone authentication service to allow multiple/social logins"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [],
+    "reviewer": "N/A"
+  }
+}
